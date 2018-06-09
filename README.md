@@ -4,8 +4,10 @@
 
 Based on [jekyll-now](https://github.com/barryclark/jekyll-now) by Barry Clark
 
-Clone the sources and run:
+In order to deploy locally, clone the sources and run:
 
 ```
 jekyll serve
 ```
+
+and browse to http://localhost:4000/
