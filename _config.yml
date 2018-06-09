@@ -9,7 +9,7 @@ name: LINGOT Is Not a Guitar-Only Tuner
 description: Universal tuner
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: {{ site.baseurl }}/images/lingot-icon.png
+avatar: /lingot-web/images/lingot-icon.png
 
 #
 # Flags below are optional
